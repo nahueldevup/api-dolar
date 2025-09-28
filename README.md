@@ -126,9 +126,8 @@ Filtra el historial por tipo y rango de fechas.
 
 * Laravel
 * Laravel Breeze
-* MySQL / SQLite
-* JavaScript (Vite)
-* Tailwind CSS
+* MySQL
+* Apis
 
 ## Colaboradores
 * Jennifer Elizabeth Coronel 
