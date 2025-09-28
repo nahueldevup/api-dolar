@@ -131,6 +131,6 @@ Filtra el historial por tipo y rango de fechas.
 * Tailwind CSS
 
 ## Colaboradores
-* Jennifer Coronel 
-* Facundo Nahuel
+* Jennifer Elizabeth Coronel 
+* Facundo Nahuel Espinola
 ---
